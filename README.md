@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Krishna Kishore Chowdhury</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/I6uH.mp4">
+
 
 <p align="left"> <a href="https://twitter.com/day_dreamer_20" target="blank"><img src="https://img.shields.io/twitter/follow/day_dreamer_20?logo=twitter&style=for-the-badge" alt="day_dreamer_20" /></a> </p>
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Resume/CV 🔗](https://drive.google.com/file/d/1v_FpikEJEgvEjg5QLhtmHfQfIQNtb1Ci/view?usp=sharing)
 
-- ⚡ Fun fact **I love to cook code😁**
+- ⚡ Fun fact **I love to** ~~COOK 🧑🏻‍🍳~~  **CODE💻✅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
