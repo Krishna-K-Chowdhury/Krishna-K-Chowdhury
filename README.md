@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Kishore Chowdhury</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="./resources/final-github-readme-gif.gif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/day_dreamer_20" target="blank"><img src="https://img.shields.io/twitter/follow/day_dreamer_20?logo=twitter&style=for-the-badge" alt="day_dreamer_20" /></a> </p>
 
