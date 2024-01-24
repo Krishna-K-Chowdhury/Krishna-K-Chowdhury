@@ -1,9 +1,12 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Krishna Kishore Chowdhury</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<br>
 
+![](https://komarev.com/ghpvc/?username=Krishna-K-Chowdhury&color=009DAE)
 
 <p align="left"> <a href="https://twitter.com/day_dreamer_20" target="blank"><img src="https://img.shields.io/twitter/follow/day_dreamer_20?logo=twitter&style=for-the-badge" alt="day_dreamer_20" /></a> </p>
+
 
 - 🔭 I’m currently working on [ecommerce android application](https://github.com/Krishna-K-Chowdhury)
 
