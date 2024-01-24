@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Resume/CV 🔗](https://drive.google.com/file/d/1v_FpikEJEgvEjg5QLhtmHfQfIQNtb1Ci/view?usp=sharing)
 
-- ⚡ Fun fact **I love to** ~~COOK 🧑🏻‍🍳~~  **CODE💻✅**
+- ⚡ Fun fact **I love to CODE💻✅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,5 +38,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-k-chowdhury&show_icons=true&locale=en&layout=compact" alt="krishna-k-chowdhury" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-k-chowdhury&show_icons=true&locale=en" alt="krishna-k-chowdhury" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-k-chowdhury&" alt="krishna-k-chowdhury" /></p>
