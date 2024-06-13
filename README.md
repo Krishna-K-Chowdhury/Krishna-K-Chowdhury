@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [android based fullstack applications](https://github.com/Krishna-K-Chowdhury)
 
-- 👨‍💻 All of my projects are available at [https://www.kkchowdhury.tech/](https://www.kkchowdhury.tech/)
+- 👨‍💻 All of my projects are available at [https://www.kkchowdhury2.tech/](https://www.kkchowdhury2.tech/)
 
 - 💬 Ask me about **Java, Kotlin, Android, OOPs, DSA**
 
